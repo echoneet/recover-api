@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractured-api", "Fractured-api\Fractured-api.csproj", "{D3E17017-F977-459D-B5C8-CA8234704D5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recover", "Recover-api\Recover.csproj", "{D3E17017-F977-459D-B5C8-CA8234704D5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
